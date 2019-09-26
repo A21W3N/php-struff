@@ -64,10 +64,7 @@ if (isset($_SESSION["admin"]))
 	print '</form>';
 	
 	//Asztal foglalások
-	//TODO az elfogad és elutasít gombok implementációi, az elutasítás / törlés megcsinálása, és esetén email küldése
-	//elfogadás esetén email küldése
-	//dinamikus menü elkészítése, az órai alapok alapján (padmin.php)
-	//a felhasználó követés megoldása, valakitől elkérve valószínűleg.
+	
 	
 	print "<hr>";
 	print "<h1>Foglalások kezelése</h1>";
